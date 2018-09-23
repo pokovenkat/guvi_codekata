@@ -1,2 +1,2 @@
-# poko
-this is for testing git
+#guvi_codekata
+This is a guvi codekata.
